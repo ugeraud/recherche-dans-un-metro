@@ -1,0 +1,30 @@
+Aldgate East	1075	299
+Baker Street	425	126
+Bank	831	315
+Bond Street	401	270
+Cannon Street	809	386
+Charing Cross	592	412
+Edgware Road	283	125
+Embankment	592	465
+Euston	625	95
+Farringdon	778	159
+Green Park	420	351
+Holborn	656	270
+King's Cross St. Pancras	726	112
+Leicester Square	593	331
+Liverpool Street	955	218
+Marylebone	319	105
+Monument	880	365
+Moorgate	852	217
+Notting Hill Gate	202	270
+Oxford Circus	477	270
+Paddington	184	126
+Piccadilly Circus	530	349
+Shepherd's Bush	102	270
+South Kensington	280	469
+Tottenham Court Road	593	270
+Tower Hill	981	363
+Victoria	419	466
+Warren Street	592	154
+Waterloo	592	534
+Westminster	536	466

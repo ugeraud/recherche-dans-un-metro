@@ -1,0 +1,50 @@
+Paddington	Bakerloo_line	Marylebone
+Marylebone	Bakerloo_line	Baker Street
+Baker Street	Bakerloo_line	Oxford Circus
+Oxford Circus	Bakerloo_line	Piccadilly Circus
+Piccadilly Circus	Bakerloo_line	Charing Cross
+Charing Cross	Bakerloo_line	Embankment
+Embankment	Bakerloo_line	Waterloo
+Shepherd's Bush	Central_line	Notting Hill Gate
+Notting Hill Gate	Central_line	Bond Street
+Bond Street	Central_line	Oxford Circus
+Oxford Circus	Central_line	Tottenham Court Road
+Tottenham Court Road	Central_line	Holborn
+Holborn	Central_line	Bank
+Bank	Central_line	Liverpool Street
+Edgware Road	Circle_line	Paddington
+Paddington	Circle_line	Notting Hill Gate
+Notting Hill Gate	Circle_line	South Kensington
+South Kensington	Circle_line	Victoria
+Victoria	Circle_line	Westminster
+Westminster	Circle_line	Embankment
+Embankment	Circle_line	Cannon Street
+Cannon Street	Circle_line	Monument
+Monument	Circle_line	Tower Hill
+Paddington	Hammersmith_line	Edgware Road
+Edgware Road	Hammersmith_line	Baker Street
+Baker Street	Hammersmith_line	King's Cross St. Pancras
+King's Cross St. Pancras	Hammersmith_line	Farringdon
+Farringdon	Hammersmith_line	Moorgate
+Moorgate	Hammersmith_line	Liverpool Street
+Liverpool Street	Hammersmith_line	Aldgate East
+Baker Street	Jubilee_line	Bond Street
+Bond Street	Jubilee_line	Green Park
+Green Park	Jubilee_line	Westminster
+Westminster	Jubilee_line	Waterloo
+Euston	Nothern_line	Warren Street
+Warren Street	Nothern_line	Tottenham Court Road
+Tottenham Court Road	Nothern_line	Leicester Square
+Leicester Square	Nothern_line	Charing Cross
+Charing Cross	Nothern_line	Embankment
+Embankment	Nothern_line	Waterloo
+South Kensington	Piccadilly_line	Green Park
+Green Park	Piccadilly_line	Piccadilly Circus
+Piccadilly Circus	Piccadilly_line	Leicester Square
+Leicester Square	Piccadilly_line	Holborn
+Holborn	Piccadilly_line	King's Cross St. Pancras
+Victoria	Victoria_line	Green Park
+Green Park	Victoria_line	Oxford Circus
+Oxford Circus	Victoria_line	Warren Street
+Warren Street	Victoria_line	Euston
+Euston	Victoria_line	King's Cross St. Pancras
